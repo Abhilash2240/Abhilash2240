@@ -190,7 +190,7 @@ A modern application focused on processing and managing receipt-related informat
 <img src="https://img.shields.io/badge/GitHub-Abhilash2240-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/abhilashgundelli">
+<a href="https://www.linkedin.com/in/gundelli-abhilash-81427b343/">
 <img src="https://img.shields.io/badge/LinkedIn-Abhilash%20Gundelli-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
