@@ -1,10 +1,8 @@
-from pathlib import Path
+👋 Hi, I'm Abhilash Gundelli
 
-readme = r"""# 👋 Hi, I'm Abhilash Gundelli
+Computer Science Undergraduate | Software & AI Engineer 🤖💻
 
-### Computer Science Undergraduate | Software & AI Engineer 🤖💻
-
-> `Building AI-powered products • Full-Stack Development • Intelligent Systems`
+Building AI-powered products • Full-Stack Development • Intelligent Systems
 
 <p align="center">
   <a href="https://github.com/Abhilash2240">
@@ -21,109 +19,123 @@ readme = r"""# 👋 Hi, I'm Abhilash Gundelli
   <a href="https://leetcode.com/u/Abhigundelli/">LeetCode</a>
 </p>
 
----
+🧠 About Me
 
-## 🧠 About Me
+I'm a B.Tech Computer Science student at SR University, Warangal, interested in building practical software and AI-driven applications.
 
-I'm a **B.Tech Computer Science student at SR University, Warangal**, interested in building practical software and AI-driven applications.
+🤖 Exploring Generative AI, LLMs, AI Agents & Prompt Engineering
 
-- 🤖 Exploring **Generative AI, LLMs, AI Agents & Prompt Engineering**
-- 💻 Building with **Python, Java, JavaScript, React & FastAPI**
-- 🧠 Interested in **Machine Learning, NLP and intelligent systems**
-- 🌐 Building modern **full-stack applications and backend services**
-- ☁️ Exploring **AWS, Docker, Vercel and cloud deployment**
-- 🧩 Practicing **Data Structures & Algorithms**
-- 🚀 Interested in turning real-world problems into useful software
+💻 Building with Python, Java, JavaScript, React & FastAPI
 
----
+🧠 Interested in Machine Learning, NLP and intelligent systems
 
-## 🎯 What I Work On
+🌐 Building modern full-stack applications and backend services
 
-| 🤖 AI / ML | 💻 Full Stack | ☁️ Cloud & DevOps | 🧩 Problem Solving |
-|---|---|---|---|
-| LLMs | React | AWS | DSA |
-| AI Agents | TypeScript | Docker | Algorithms |
-| Machine Learning | FastAPI | Vercel | Competitive Programming |
-| NLP | REST APIs | GitHub | System Design |
+☁️ Exploring AWS, Docker, Vercel and cloud deployment
 
----
+🧩 Practicing Data Structures & Algorithms
 
-## 🛠️ Tech Stack
+🚀 Interested in turning real-world problems into useful software
 
-### 👨‍💻 Languages
+🎯 What I Work On
+
+🤖 AI / ML
+
+💻 Full Stack
+
+☁️ Cloud & DevOps
+
+🧩 Problem Solving
+
+LLMs
+
+React
+
+AWS
+
+DSA
+
+AI Agents
+
+TypeScript
+
+Docker
+
+Algorithms
+
+Machine Learning
+
+FastAPI
+
+Vercel
+
+Competitive Programming
+
+NLP
+
+REST APIs
+
+GitHub
+
+System Design
+
+🛠️ Tech Stack
+
+👨‍💻 Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript" alt="Languages"/>
 </p>
 
-### 🌐 Web & Backend
+🌐 Web & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,fastapi" alt="Web and Backend"/>
 </p>
 
-### 🤖 AI / Machine Learning
+🤖 AI / Machine Learning
 
-`Generative AI` • `LLMs` • `AI Agents` • `Machine Learning` • `NLP` • `Prompt Engineering`
+Generative AI • LLMs • AI Agents • Machine Learning • NLP • Prompt Engineering
 
-### 🗄️ Databases & Cloud
+🗄️ Databases & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,aws,docker,vercel" alt="Databases and Cloud"/>
 </p>
 
-### 🔧 Tools
+🔧 Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools"/>
 </p>
 
----
+🚀 Featured Projects
 
-# 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/Abhilash2240/ai-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhilash2240&repo=ai-agent&theme=tokyonight&hide_border=true" alt="AI Agent"/>
-  </a>
-  <a href="https://github.com/Abhilash2240/Adaptive-Stock-Trading">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhilash2240&repo=Adaptive-Stock-Trading&theme=tokyonight&hide_border=true" alt="Adaptive Stock Trading"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Abhilash2240/ReceiptFlow">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhilash2240&repo=ReceiptFlow&theme=tokyonight&hide_border=true" alt="ReceiptFlow"/>
-  </a>
-</p>
-
-### 🤖 AI Agent Platform
+🤖 AI Agent Platform
 
 A web-based platform for experimenting with autonomous AI agents, browser automation and deep-research workflows.
 
-**Tech:** `Python` `FastAPI` `LangGraph` `Playwright` `AI Agents`
+Tech: Python FastAPI LangGraph Playwright AI Agents
 
-🔗 **[View Repository](https://github.com/Abhilash2240/ai-agent)**
+🔗 View Repository
 
-### 📈 Adaptive Stock Trading
+📈 Adaptive Stock Trading
 
 An intelligent stock-trading application combining real-time market data with reinforcement-learning concepts.
 
-**Tech:** `React` `TypeScript` `Vite` `Tailwind CSS` `FastAPI` `PostgreSQL` `WebSockets` `Python`
+Tech: React TypeScript Vite Tailwind CSS FastAPI PostgreSQL WebSockets Python
 
-🔗 **[View Repository](https://github.com/Abhilash2240/Adaptive-Stock-Trading)**
+🔗 View Repository
 
-### 🧾 ReceiptFlow
+🧾 ReceiptFlow
 
 A modern application focused on processing and managing receipts through a clean, intuitive interface.
 
-**Tech:** `TypeScript` `React` `Vite` `Tailwind CSS`
+Tech: TypeScript React Vite Tailwind CSS
 
-🔗 **[View Repository](https://github.com/Abhilash2240/ReceiptFlow)**
+🔗 View Repository
 
----
-
-# 📊 GitHub Stats
+📊 GitHub Stats
 
 <p align="center">
   <img
@@ -154,24 +166,21 @@ A modern application focused on processing and managing receipts through a clean
   />
 </p>
 
----
+🏆 Certifications
 
-# 🏆 Certifications
+Microsoft Certified – Azure AI Fundamentals
 
-- Microsoft Certified – Azure AI Fundamentals
-- AWS Academy Graduate – Cloud Foundations
-- Software Engineering Essentials
-- Google Developers – AI/ML
+AWS Academy Graduate – Cloud Foundations
 
----
+Software Engineering Essentials
 
-# 📚 Currently Exploring
+Google Developers – AI/ML
 
-`LLMs` `AI Agents` `Generative AI` `RAG` `Advanced DSA` `System Design` `Cloud` `MLOps` `Open Source`
+📚 Currently Exploring
 
----
+LLMs AI Agents Generative AI RAG Advanced DSA System Design Cloud MLOps Open Source
 
-# 🧠 Coding Profile
+🧠 Coding Profile
 
 <p align="center">
   <a href="https://leetcode.com/u/Abhigundelli/">
@@ -182,9 +191,7 @@ A modern application focused on processing and managing receipts through a clean
   </a>
 </p>
 
----
-
-# 🌐 Let's Connect
+🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gundelli-abhilash-81427b343/">
@@ -201,8 +208,3 @@ A modern application focused on processing and managing receipts through a clean
 <p align="center">
   <b>Keep Building. Keep Learning. Keep Shipping. 🚀</b>
 </p>
-"""
-
-path = Path("/mnt/data/README.md")
-path.write_text(readme, encoding="utf-8")
-print(path)
