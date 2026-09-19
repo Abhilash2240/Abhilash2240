@@ -1,6 +1,4 @@
-from pathlib import Path
 
-readme = r"""<div align="center">
 
 # 👋 Hi, I'm Abhilash Gundelli
 
