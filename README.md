@@ -1,141 +1,190 @@
-👋 Hi, I'm Abhilash Gundelli
+from pathlib import Path
 
-Computer Science Undergraduate | Software & AI Engineer 🤖💻
+readme = r"""<div align="center">
 
-Building AI-powered products • Full-Stack Development • Intelligent Systems
+# 👋 Hi, I'm Abhilash Gundelli
 
-<p align="center">
+### Computer Science Undergraduate | Software & AI Engineer 🤖💻
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=7AA2F7&center=true&vCenter=true&width=750&lines=Software+%26+AI+Engineer;Building+AI-powered+applications;Exploring+LLMs+%26+AI+Agents;Full-Stack+%7C+Backend+%7C+Machine+Learning;Turning+ideas+into+real-world+products+%F0%9F%9A%80" alt="Typing animation" />
+
+<p>
   <a href="https://github.com/Abhilash2240">
-    <img src="https://komarev.com/ghpvc/?username=Abhilash2240&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=Abhilash2240&label=Profile%20Views&color=7AA2F7&style=for-the-badge" alt="Profile Views"/>
   </a>
   <a href="https://github.com/Abhilash2240">
-    <img src="https://img.shields.io/github/followers/Abhilash2240?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/Abhilash2240?label=Followers&style=for-the-badge&color=7AA2F7" alt="Followers"/>
   </a>
 </p>
 
-<p align="center">
+<p>
   <a href="https://github.com/Abhilash2240">GitHub</a> •
   <a href="https://www.linkedin.com/in/gundelli-abhilash-81427b343/">LinkedIn</a> •
   <a href="https://leetcode.com/u/Abhigundelli/">LeetCode</a>
 </p>
 
-🧠 About Me
+</div>
 
-I'm a B.Tech Computer Science student at SR University, Warangal, interested in building practical software and AI-driven applications.
+---
 
-🤖 Exploring Generative AI, LLMs, AI Agents & Prompt Engineering
+## 👨‍💻 Professional Summary
 
-💻 Building with Python, Java, JavaScript, React & FastAPI
+> **Computer Science undergraduate and aspiring Software & AI Engineer** with a strong foundation in software development, artificial intelligence, and problem solving. I build practical applications that combine **AI, backend engineering, full-stack development, and data-driven systems**.
 
-🧠 Interested in Machine Learning, NLP and intelligent systems
+I'm particularly interested in **Generative AI, LLMs, AI Agents, Machine Learning, NLP, and Prompt Engineering**, while continuously strengthening my **Data Structures & Algorithms and software engineering fundamentals**.
 
-🌐 Building modern full-stack applications and backend services
+Currently, I'm focused on building projects that solve real-world problems and gaining hands-on experience with modern technologies such as **Python, Java, React, FastAPI, PostgreSQL, Docker, AWS, Gemini, LangGraph, and Playwright**.
 
-☁️ Exploring AWS, Docker, Vercel and cloud deployment
+---
 
-🧩 Practicing Data Structures & Algorithms
+## 🔎 Quick Overview
 
-🚀 Interested in turning real-world problems into useful software
+| | |
+|---|---|
+| 🎓 **Education** | B.Tech in Computer Science — SR University, Warangal |
+| 🤖 **AI Focus** | Generative AI, LLMs, AI Agents, Machine Learning, NLP |
+| 💻 **Development** | Full Stack & Backend Engineering |
+| 🧠 **Problem Solving** | Data Structures & Algorithms |
+| 🛠️ **Languages** | Python, Java, C++, C, JavaScript, TypeScript |
+| ⚡ **Backend** | FastAPI, REST APIs, WebSockets |
+| 🌐 **Frontend** | React, TypeScript, Vite, Tailwind CSS |
+| 🗄️ **Databases** | PostgreSQL, MySQL, SQLite |
+| ☁️ **Cloud & Tools** | AWS, Docker, Git, GitHub, Vercel |
+| 🎯 **Career Focus** | Software Engineering & AI Engineering |
 
-🎯 What I Work On
+---
 
-🤖 AI / ML
+## 🧠 About Me
 
-💻 Full Stack
+I enjoy taking an idea from **concept → architecture → implementation → deployment**.
 
-☁️ Cloud & DevOps
+My current interests include:
 
-🧩 Problem Solving
+- 🤖 **Generative AI & LLM Applications**
+- 🧠 **AI Agents & Agentic Workflows**
+- 🔍 **Machine Learning & NLP**
+- ⚙️ **Backend & API Development**
+- 🌐 **Full-Stack Engineering**
+- 📊 **Data-driven Applications**
+- 🧩 **Data Structures & Algorithms**
+- ☁️ **Cloud & DevOps**
 
-LLMs
+I believe the best way to learn technology is to **build, experiment, break things, and improve them**.
 
-React
+---
 
-AWS
+## 🎯 What I Work On
 
-DSA
+<p align="center">
 
-AI Agents
+| 🤖 AI / ML | 💻 Full Stack | ☁️ Cloud & DevOps | 🧩 Problem Solving |
+|:---:|:---:|:---:|:---:|
+| LLMs | React | AWS | DSA |
+| AI Agents | TypeScript | Docker | Algorithms |
+| Machine Learning | FastAPI | Vercel | Problem Solving |
+| NLP | REST APIs | GitHub | System Design |
 
-TypeScript
-
-Docker
-
-Algorithms
-
-Machine Learning
-
-FastAPI
-
-Vercel
-
-Competitive Programming
-
-NLP
-
-REST APIs
-
-GitHub
-
-System Design
-
-🛠️ Tech Stack
-
-👨‍💻 Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript" alt="Languages"/>
 </p>
 
-🌐 Web & Backend
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript" alt="Programming Languages"/>
+</p>
+
+### 🌐 Web & Backend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind,nodejs,fastapi" alt="Web and Backend"/>
 </p>
 
-🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning
 
-Generative AI • LLMs • AI Agents • Machine Learning • NLP • Prompt Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="AI and Machine Learning"/>
+</p>
 
-🗄️ Databases & Cloud
+`Generative AI` • `LLMs` • `AI Agents` • `Machine Learning` • `NLP` • `Prompt Engineering`
+
+### 🗄️ Databases & Cloud
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,aws,docker,vercel" alt="Databases and Cloud"/>
 </p>
 
-🔧 Tools
+### 🔧 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" alt="Developer Tools"/>
 </p>
 
-🚀 Featured Projects
+---
 
-🤖 AI Agent Platform
+# 🚀 Featured Projects
 
-A web-based platform for experimenting with autonomous AI agents, browser automation and deep-research workflows.
+## 🤖 AI Agent Platform
 
-Tech: Python FastAPI LangGraph Playwright AI Agents
+A web-based platform for experimenting with autonomous AI agents, browser automation, and deep-research workflows.
 
-🔗 View Repository
+**Key Areas**
 
-📈 Adaptive Stock Trading
+- 🌐 Browser automation with Playwright
+- 🔍 Deep research workflows
+- 🔗 LangGraph-based agent workflows
+- ⚡ FastAPI backend
+- 🤖 Autonomous AI agent experimentation
+
+**Tech:** `Python` `FastAPI` `LangGraph` `Playwright` `AI Agents`
+
+<p>
+  <a href="https://github.com/Abhilash2240/ai-agent">
+    <img src="https://img.shields.io/badge/View%20Repository-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="AI Agent Repository"/>
+  </a>
+</p>
+
+---
+
+## 📈 Adaptive Stock Trading
 
 An intelligent stock-trading application combining real-time market data with reinforcement-learning concepts.
 
-Tech: React TypeScript Vite Tailwind CSS FastAPI PostgreSQL WebSockets Python
+**Key Areas**
 
-🔗 View Repository
+- 📊 Real-time market data
+- 📈 Trading intelligence
+- 🔄 WebSocket-based quote streaming
+- 🧠 Reinforcement-learning concepts
+- 🌐 React + FastAPI architecture
 
-🧾 ReceiptFlow
+**Tech:** `React` `TypeScript` `Vite` `Tailwind CSS` `FastAPI` `PostgreSQL` `WebSockets` `Python`
 
-A modern application focused on processing and managing receipts through a clean, intuitive interface.
+<p>
+  <a href="https://github.com/Abhilash2240/Adaptive-Stock-Trading">
+    <img src="https://img.shields.io/badge/View%20Repository-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="Adaptive Stock Trading Repository"/>
+  </a>
+</p>
 
-Tech: TypeScript React Vite Tailwind CSS
+---
 
-🔗 View Repository
+## 🧾 ReceiptFlow
 
-📊 GitHub Stats
+A modern application focused on processing and managing receipts through a clean and intuitive interface.
+
+**Tech:** `TypeScript` `React` `Vite` `Tailwind CSS`
+
+<p>
+  <a href="https://github.com/Abhilash2240/ReceiptFlow">
+    <img src="https://img.shields.io/badge/View%20Repository-7AA2F7?style=for-the-badge&logo=github&logoColor=white" alt="ReceiptFlow Repository"/>
+  </a>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img
@@ -166,21 +215,34 @@ Tech: TypeScript React Vite Tailwind CSS
   />
 </p>
 
-🏆 Certifications
+---
 
-Microsoft Certified – Azure AI Fundamentals
+# 🏆 Certifications
 
-AWS Academy Graduate – Cloud Foundations
+- 🟦 **Microsoft Certified – Azure AI Fundamentals**
+- ☁️ **AWS Academy Graduate – Cloud Foundations**
+- 💻 **Software Engineering Essentials**
+- 🤖 **Google Developers – AI/ML**
 
-Software Engineering Essentials
+---
 
-Google Developers – AI/ML
+# 📚 Currently Exploring
 
-📚 Currently Exploring
+<p align="center">
+  <img src="https://img.shields.io/badge/LLMs-7AA2F7?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-9B7EDE?style=for-the-badge" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-7AA2F7?style=for-the-badge" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/RAG-9B7EDE?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Advanced%20DSA-7AA2F7?style=for-the-badge" alt="Advanced DSA"/>
+  <img src="https://img.shields.io/badge/System%20Design-9B7EDE?style=for-the-badge" alt="System Design"/>
+  <img src="https://img.shields.io/badge/Cloud-7AA2F7?style=for-the-badge" alt="Cloud"/>
+  <img src="https://img.shields.io/badge/MLOps-9B7EDE?style=for-the-badge" alt="MLOps"/>
+  <img src="https://img.shields.io/badge/Open%20Source-7AA2F7?style=for-the-badge" alt="Open Source"/>
+</p>
 
-LLMs AI Agents Generative AI RAG Advanced DSA System Design Cloud MLOps Open Source
+---
 
-🧠 Coding Profile
+# 🧠 Coding Profile
 
 <p align="center">
   <a href="https://leetcode.com/u/Abhigundelli/">
@@ -191,7 +253,9 @@ LLMs AI Agents Generative AI RAG Advanced DSA System Design Cloud MLOps Open Sou
   </a>
 </p>
 
-🌐 Let's Connect
+---
+
+# 🌐 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gundelli-abhilash-81427b343/">
@@ -205,6 +269,19 @@ LLMs AI Agents Generative AI RAG Advanced DSA System Design Cloud MLOps Open Sou
   </a>
 </p>
 
-<p align="center">
-  <b>Keep Building. Keep Learning. Keep Shipping. 🚀</b>
-</p>
+---
+
+<div align="center">
+
+### 🚀 Keep Building. Keep Learning. Keep Shipping.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7AA2F7,100:9B7EDE&height=100&section=footer" width="100%" alt="Animated footer"/>
+
+**Thanks for visiting my profile! 💜**
+
+</div>
+"""
+
+path = Path("/mnt/data/Abhilash2240-README-complete.md")
+path.write_text(readme, encoding="utf-8")
+print(path)
